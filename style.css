@@ -3,8 +3,7 @@ body{
     background-color: whitesmoke;
 }
 *{
-    border: 0 none;
-    padding: 0;
+
     margin: auto;
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
@@ -17,7 +16,8 @@ img{
     max-width: 20%;
 }
 
-div{display: block;}
+div{display: block;
+    margin-bottom: 75px;}
 
 .nav{
     top: 0;
