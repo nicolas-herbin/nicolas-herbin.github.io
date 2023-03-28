@@ -19,7 +19,7 @@ img{
 
 div{display: block;}
 
-.barnav{
+.nav{
     top: 0;
     display: flex;
     flex-wrap: wrap;
