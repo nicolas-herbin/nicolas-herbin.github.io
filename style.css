@@ -6,13 +6,14 @@ body{
     border: 0 none;
     padding: 0;
     margin: auto;
-    text-decoration: none;
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
 }
-
+a{color:white;
+    text-decoration: none;}
 img{
     height: auto;
+    width: 150px;
     max-width: 20%;
 }
 
@@ -23,14 +24,15 @@ div{display: block;}
     display: flex;
     flex-wrap: wrap;
     color: #ffffff;
+    text-decoration: none;
     background-color: #070c58;
     position: sticky;
     justify-content: center;
     padding: 15px;
     margin: 0;
 }
-a{text-decoration: none;}
-p{text-decoration: none;}
+
+
 h1,h2,h3{ font-family: 'Times New Roman', Times, serif;
 }
 
