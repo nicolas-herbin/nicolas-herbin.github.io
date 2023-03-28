@@ -3,7 +3,7 @@ body{
     background-color: whitesmoke;
 }
 *{
-
+    text-align: center;
     margin: auto;
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
@@ -36,7 +36,10 @@ div{display: block;
 h1,h2,h3{ font-family: 'Times New Roman', Times, serif;
 }
 
-
+h1{padding-bottom: 15px;
+    padding-top: 20px;}
+h2{padding-bottom: 10px;}
+h3{padding-bottom: 5px;}
 .bandeau{
     background-color: #070c58;
     color: #ffffff;
@@ -51,3 +54,6 @@ h1,h2,h3{ font-family: 'Times New Roman', Times, serif;
     flex-wrap: wrap;    
     flex-direction: row;
 }
+
+.propos{background-color: rgb(218, 218, 218);}
+.certif{background-color: rgb(218, 218, 218);}
