@@ -55,5 +55,5 @@ h3{padding-bottom: 5px;}
     flex-direction: row;
 }
 
-.propos{background-color: rgb(218, 218, 218);}
-.certif{background-color: rgb(218, 218, 218);}
+
+.propos,.AP,.certif{background-color: rgb(218, 218, 218);}
