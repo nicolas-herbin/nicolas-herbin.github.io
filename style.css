@@ -8,7 +8,7 @@ body{
     margin: auto;
     text-decoration: none;
     list-style: none;
-
+    font-family: 'Times New Roman', Times, serif;
 }
 
 img{
@@ -22,8 +22,8 @@ div{display: block;}
     top: 0;
     display: flex;
     flex-wrap: wrap;
-    color: #f4f4f4;
-    background-color: #000000;
+    color: #ffffff;
+    background-color: #070c58;
     position: sticky;
     justify-content: center;
     padding: 15px;
@@ -31,3 +31,21 @@ div{display: block;}
 }
 a{text-decoration: none;}
 p{text-decoration: none;}
+h1,h2,h3{ font-family: 'Times New Roman', Times, serif;
+}
+
+
+.bandeau{
+    background-color: #070c58;
+    color: #ffffff;
+    margin-top: 15%;
+    margin: auto;   
+    padding: 20px;
+}
+
+.b2{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;    
+    flex-direction: row;
+}
